@@ -1,0 +1,62 @@
+[
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/coaches.csv",
+        "p_sink_folder": "coaches",
+        "p_sink_file": "coaches.csv"
+    },
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/medallists.csv",
+        "p_sink_folder": "medallists",
+        "p_sink_file": "medallists.csv"
+    },
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/events.csv",
+        "p_sink_folder": "events",
+        "p_sink_file": "events.csv"
+    },
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/medals.csv",
+        "p_sink_folder": "medals",
+        "p_sink_file": "medals.csv"
+    },
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/nocs.csv",
+        "p_sink_folder": "nocs",
+        "p_sink_file": "nocs.csv"
+    },
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/schedules.csv",
+        "p_sink_folder": "schedules",
+        "p_sink_file": "schedules.csv"
+    },
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/teams.csv",
+        "p_sink_folder": "teams",
+        "p_sink_file": "teams.csv"
+    },
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/technical_officials.csv",
+        "p_sink_folder": "technical_officials",
+        "p_sink_file": "technical_officials.csv"
+    },
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/torch_route.csv",
+        "p_sink_folder": "torch_route",
+        "p_sink_file": "torch_route.csv"
+    },
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/venues.csv",
+        "p_sink_folder": "venues",
+        "p_sink_file": "venues.csv"
+    },
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/medals_total.csv",
+        "p_sink_folder": "medals_total",
+        "p_sink_file": "medals_total.csv"
+    },
+    {
+        "p_rel_url": "royanK16/Olympic-Paris-2024/refs/heads/main/Dataset/schedules_preliminary.csv",
+        "p_sink_folder": "schedules_preliminary",
+        "p_sink_file": "schedules_preliminary.csv"
+    }
+]
